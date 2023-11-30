@@ -34,9 +34,10 @@ body {
   padding: 0 12px;
   margin-bottom: 30px;
 }
-.text h3 {
+.text h1 {
   color: hsl(218, 44%, 22%);
   margin-bottom: 20px;
+  font-size: 21px;
 }
 .text p {
   color: hsl(220, 15%, 55%);

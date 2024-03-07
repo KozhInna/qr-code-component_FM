@@ -1,4 +1,4 @@
-https://github.com/KozhInna/qr-code-component_FM/actions/workflows/github-actions.yaml/badge.svg
+![workflow badge](https://github.com/KozhInna/qr-code-component_FM/actions/workflows/github-actions.yaml/badge.svg)
 
 # Frontend Mentor - QR code component solution
 
